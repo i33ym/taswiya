@@ -1,0 +1,18 @@
+image: alpine/edge
+packages:
+  - hut
+  - zola
+oauth: pages.sr.ht/PAGES:RW
+environment:
+  site: i33ym.srht.site
+sources:
+  - https://git.sr.ht/i33ym/pickles
+tasks:
+  - build: |
+      cd pickles
+      zola build
+  - package: |
+      cd pickles
+      tar -C public -cvz . > ../site.tar.gz
+  - upload: |
+      hut pages publish -d $site site.tar.gz
