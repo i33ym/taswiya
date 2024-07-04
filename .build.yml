@@ -12,7 +12,7 @@ tasks:
       cd pickles
       zola build
   - package: |
-      cd pickles
+      cd pickles  
       tar -C public -cvz . > ../site.tar.gz
   - upload: |
       hut pages publish -d $site site.tar.gz
