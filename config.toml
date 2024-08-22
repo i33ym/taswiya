@@ -3,7 +3,7 @@ base_url = "https://blog.taswiya.cc"
 
 # The site title and description; used in feeds by default.
 title = "Taswiya"
-description = "Official blog site of Taswiya Education Center"
+description = "Dedicated to the vanguard of humanity"
 
 # The default language; used in feeds.
 default_language = "en"
