@@ -7,7 +7,7 @@ insert_anchor_links = "right"
 [taxonomies]
 categories = ["tradition", "culture", "thinking", "wisdom"]
 [extra]
-toc = true
+toc = false
 +++
 
 The whole world is trapped in [tradition](https://quran.com/2/170).
@@ -15,9 +15,6 @@ The whole world is trapped in [tradition](https://quran.com/2/170).
 
 ### Problems are not what you see.
 Problems are what you do not see. We often think we're clever just like a bird who has seen a small grain on the ground from a mile above. Poor bird... She saw the grain but she could not see the trap.
-
-### When you do not see the Day of Judgement.
-God... Save us from this insanity.
 
 ### Surah Al-Balad
 
