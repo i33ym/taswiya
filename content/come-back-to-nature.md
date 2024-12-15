@@ -10,6 +10,9 @@ categories = ["nature", "simplicity", "harmony"]
 toc = false
 +++
 
+The myths are true.
+<!-- more -->
+
 In the process of seeking to master the nature, we've gone against the very grain of a neither spoken nor written rule of creation - the more power we amass, the further we get from God. Human being was created weak. Our fragility urges us to look for a help forthcoming and pray. We get bent beneath the burden of the toil of living. It is what makes living meaningful and roistering at the end when we look back in retrospect that we not only survived the stormiest waves but got stronger and more resillient because of them.
 
 But in our folly, we've long been striving to become "omnipotent" and clearly, there is no room for two omnipotent beings in one universe.
